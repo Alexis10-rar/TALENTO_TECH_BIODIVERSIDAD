@@ -1,0 +1,66 @@
+
+h1{
+    color:#a6eb1d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-stretch: expanded;
+    font-size: 40px;
+    
+}
+
+p{
+   font-size: 50px;
+   text-align: left; 
+   color: rgb(16, 81, 235);
+}
+
+.btn{
+    display: inline-block;
+    background-color: aliceblue;
+    color: #2980cc;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    margin: 25px;
+    padding: 25px;
+    float: right;
+    border-radius: 30px;
+    size: 30px;
+    width: 200px; 
+    height: 30px; 
+}
+.styled-table{
+    border-collapse: collapse
+    margin: 25px 0;
+    font-size: 1em;
+    font-family: arial;
+    min-width: 500px;
+    box-shadow: 0 0 20px rgba (0 0 0 0.15);
+
+}
+.styled-table thead tr{
+
+    background-color: rgb(57, 163, 216);
+    color: beige;
+    text-align: middle;
+}
+
+.styled-table th,
+.styled-table td{
+    padding: 12px 15px;
+
+}
+.styled-table tbody tr{
+    border-bottom: 1px solid #36d628;
+}
+
+.styled-table tbody tr:nth-of-type(even){
+    background-color: rgb(197, 207, 204);
+      
+
+.body {
+    background-image: url('static/images/Colibri.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+  
